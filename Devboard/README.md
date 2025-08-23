@@ -10,3 +10,9 @@ This devboard was a quick perfboard design to get WLED running and driving my AR
 ![Example Image](https://github.com/jwidess/ARGB-WLED-PC-Controller/blob/main/Devboard/Devboard-Sample.jpg?raw=true)
 
 ![Schematic](https://github.com/jwidess/ARGB-WLED-PC-Controller/blob/main/Devboard/Devboard-Schematic.png?raw=true)
+
+## Parts List
+1. [ElectroCookie](https://www.amazon.com/ElectroCookie-Prototype-Snappable-Electronics-Gold-Plated/dp/B081R4YBY7) Perfboards
+2. ESP32 (Whatever module or devboard you'd like)
+3. Either an ATX "Molex" connector or a SATA Power connector to provide power.
+4. 3-pin ARGB Connectors (I modified 4-pin connectors)
